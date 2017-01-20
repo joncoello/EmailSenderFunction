@@ -1,4 +1,5 @@
 using System;
+using System.Configuration;
 
 public static void Run(string myQueueItem, TraceWriter log)
 {
